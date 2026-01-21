@@ -1,3 +1,4 @@
+<img width="846" height="373" alt="Screenshot 2026-01-21 at 7 55 12 PM" src="https://github.com/user-attachments/assets/4a466e11-99a5-4bbb-984a-74a3338bb3f6" />
 # LedgerCore-P2P-Engine 💸
 
 **A Secure C-Based P2P Payment Ledger Prototype.**
