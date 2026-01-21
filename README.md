@@ -23,4 +23,4 @@ LedgerCore is a backend simulation of a digital wallet system, engineered to dem
 3. Execute: `./ledgercore`
 
 ---
-*Developed as a Founder-Level Portfolio Project by Mohammad Arqam Javed*
+*Developed as a Academic-level Portfolio Project by Mohammad Arqam Javed*
